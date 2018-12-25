@@ -5,6 +5,7 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [ ] Closures and this keyword in Javascript
 - [ ] Binding in Javascript
 - [ ] Stack and the Heap
+- [ ] Call and Apply 
 - [ ] Event Loop and Queue
 - [ ] For loop
 - [ ] Array.map method
@@ -21,11 +22,14 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [ ] Sets
 - [ ] Object.assign and Array.from
 - [ ] Generators
+- [ ] Iterators
+- [ ] Proxies
 - [ ] Rest and Spread operators
 - [ ] Object enhancement and destructuring
 - [ ] Promises
 - [ ] Async Functions
 - [ ] Getters and Setters
+
 - [ ] Memoizing Functions
 
 #### ... and few more coming
