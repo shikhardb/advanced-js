@@ -1,11 +1,13 @@
 /* 4 rules for how the 'this' keyword gets bound
  *
- * 1.
- * 2.
+ * 1. New Binding
+ * 2. Explicit Binding - call, apply, bind
  * 3. Implicit Binding - 'this' will point to the object from which it is called
  * 4. Default binding - in strict mode : undefined, in non-strict mode : global
  *
  * It all depends on the call site.
+ *
+ * A keyword 'this' is defined when a function is run!
  */
 
 function foo() {
