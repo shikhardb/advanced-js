@@ -2,10 +2,11 @@
 
 Lean and implement advanced JavaScript features 🔥😎✔
 
-- [ ] Closures and this keyword in Javascript
+- [x] Closures
+- [ ] this keyword
 - [ ] Binding in Javascript
 - [ ] Stack and the Heap
-- [ ] Call and Apply 
+- [ ] Call and Apply
 - [ ] Event Loop and Queue
 - [ ] For loop
 - [ ] Array.map method
