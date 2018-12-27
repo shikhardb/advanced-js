@@ -31,5 +31,6 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [ ] Getters and Setters
 
 - [ ] Memoizing Functions
+- [ ] Functional Programming
 
 #### ... and few more coming
