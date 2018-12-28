@@ -11,7 +11,8 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Array.map method
 - [x] Array.filter method
 - [ ] Array.reduce method
-- [ ] Array.every method
+- [x] Array.some method
+- [x] Array.every method
 - [ ] Prototypes
 - [ ] Object Oriented Programming with Class and new keyword
 - [ ] Instance and Class methods
