@@ -7,8 +7,8 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Binding in Javascript
 - [x] Call and Apply
 - [x] Partial functions
-- [ ] Event Loop and Queue
-- [ ] Array.map method
+- [x] Event Loop and Queue
+- [x] Array.map method
 - [ ] Array.filter method
 - [ ] Array.reduce method
 - [ ] Array.every method
