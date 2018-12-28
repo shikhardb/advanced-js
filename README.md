@@ -9,7 +9,7 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Partial functions
 - [x] Event Loop and Queue
 - [x] Array.map method
-- [ ] Array.filter method
+- [x] Array.filter method
 - [ ] Array.reduce method
 - [ ] Array.every method
 - [ ] Prototypes
