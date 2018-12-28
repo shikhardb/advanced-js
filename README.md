@@ -10,7 +10,7 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Event Loop and Queue
 - [x] Array.map method
 - [x] Array.filter method
-- [ ] Array.reduce method
+- [x] Array.reduce method
 - [x] Array.some method
 - [x] Array.every method
 - [ ] Prototypes
