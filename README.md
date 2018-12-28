@@ -8,7 +8,6 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Call and Apply
 - [x] Partial functions
 - [ ] Event Loop and Queue
-- [ ] For loop
 - [ ] Array.map method
 - [ ] Array.filter method
 - [ ] Array.reduce method
