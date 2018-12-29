@@ -22,8 +22,8 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Object enhancement and destructuring
 - [x] Inheritance in ES6
 - [x] Super
-- [ ] Maps
-- [ ] Sets
+- [x] Maps
+- [x] Sets
 - [ ] Object.assign and Array.from
 - [ ] Generators
 - [ ] Iterators
