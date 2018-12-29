@@ -20,9 +20,10 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Prototypal inheritance
 - [x] Rest and Spread operators
 - [x] Object enhancement and destructuring
+- [x] Inheritance in ES6
 - [ ] Super
-- [ ] Maps
-- [ ] Sets
+- [ ] Map
+- [ ] Set
 - [ ] Object.assign and Array.from
 - [ ] Generators
 - [ ] Iterators
