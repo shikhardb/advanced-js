@@ -25,7 +25,7 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Maps
 - [x] Sets
 - [x] Promises
-- [ ] Generators
+- [x] Generators
 - [ ] Object.assign and Array.from
 - [ ] Iterators
 - [ ] Symbols
