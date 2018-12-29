@@ -27,10 +27,10 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [ ] Object.assign and Array.from
 - [ ] Generators
 - [ ] Iterators
+- [ ] Symbols
 - [ ] Proxies
 - [ ] Promises
 - [ ] Async Functions
-- [ ] Getters and Setters
 
 - [ ] Memoizing Functions
 - [ ] Functional Programming
