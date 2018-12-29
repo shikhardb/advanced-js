@@ -16,7 +16,7 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [ ] Object Oriented Programming with Class and new keyword
 - [ ] Instance and Class methods
 - [x] Prototypes
-- [ ] Prototype chain
+- [x] Prototype chain
 - [ ] Prototypal inheritance
 - [ ] Private methods
 - [ ] Super
