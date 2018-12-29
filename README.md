@@ -17,8 +17,8 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [ ] Instance and Class methods
 - [x] Prototypes
 - [x] Prototype chain
-- [ ] Prototypal inheritance
-- [ ] Private methods
+- [x] Prototypal inheritance
+- [x] Rest and Spread operators
 - [ ] Super
 - [ ] Maps
 - [ ] Sets
@@ -26,7 +26,6 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [ ] Generators
 - [ ] Iterators
 - [ ] Proxies
-- [ ] Rest and Spread operators
 - [ ] Object enhancement and destructuring
 - [ ] Promises
 - [ ] Async Functions
