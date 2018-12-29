@@ -24,12 +24,12 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Super
 - [x] Maps
 - [x] Sets
-- [ ] Object.assign and Array.from
+- [x] Promises
 - [ ] Generators
+- [ ] Object.assign and Array.from
 - [ ] Iterators
 - [ ] Symbols
 - [ ] Proxies
-- [ ] Promises
 - [ ] Async Functions
 
 - [ ] Memoizing Functions
