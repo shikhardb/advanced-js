@@ -30,7 +30,7 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [ ] Iterators
 - [ ] Symbols
 - [ ] Proxies
-- [ ] Async Functions
+- [x] Async Functions
 
 - [ ] Memoizing Functions
 - [ ] Functional Programming
