@@ -14,6 +14,7 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Array.some method
 - [x] Array.every method
 - [x] Class and Instance methods
+- [x] Class methods
 - [x] Prototypes
 - [x] Prototype chain
 - [x] Prototypal inheritance
