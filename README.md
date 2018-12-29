@@ -19,6 +19,7 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Prototype chain
 - [x] Prototypal inheritance
 - [x] Rest and Spread operators
+- [ ] Object enhancement and destructuring
 - [ ] Super
 - [ ] Maps
 - [ ] Sets
@@ -26,7 +27,6 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [ ] Generators
 - [ ] Iterators
 - [ ] Proxies
-- [ ] Object enhancement and destructuring
 - [ ] Promises
 - [ ] Async Functions
 - [ ] Getters and Setters
