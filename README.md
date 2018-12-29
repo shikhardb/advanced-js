@@ -26,7 +26,7 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Sets
 - [x] Promises
 - [x] Generators
-- [ ] Object.assign and Array.from
+- [x] Object.assign and Array.from
 - [ ] Iterators
 - [ ] Symbols
 - [ ] Proxies
