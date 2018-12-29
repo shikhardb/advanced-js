@@ -13,13 +13,12 @@ Lean and implement advanced JavaScript features 🔥😎✔
 - [x] Array.reduce method
 - [x] Array.some method
 - [x] Array.every method
-- [ ] Object Oriented Programming with Class and new keyword
-- [ ] Instance and Class methods
+- [x] Class and Instance methods
 - [x] Prototypes
 - [x] Prototype chain
 - [x] Prototypal inheritance
 - [x] Rest and Spread operators
-- [ ] Object enhancement and destructuring
+- [x] Object enhancement and destructuring
 - [ ] Super
 - [ ] Maps
 - [ ] Sets
